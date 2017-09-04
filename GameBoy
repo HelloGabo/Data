@@ -1,3 +1,4 @@
 {
-  "IsGameEnable": true
+  "IsHotUpdate": false,
+  "IsGameEnable": false
 }
